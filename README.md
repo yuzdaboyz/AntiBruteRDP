@@ -30,6 +30,10 @@ AntiBruteRDP is a freeware but you are welcome to donate if you find this tool i
 
 It was adapted from ts-block.vbs by Evan Andersen, you can find the original vb script below.
 
+For more information, support or bugs, feel free to contact me.
+
+Thanks
+
 ----
 ## Related
 
