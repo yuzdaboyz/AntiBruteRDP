@@ -19,6 +19,12 @@ It works by monitoring failed attempts by remote addresses and block the attempt
 
 > Service status
 
+### Installation
+
+```bash
+sc create AntiBruteRDP binPath= C:\<install path>\AntiBruteRDP.exe
+```
+
 ----
 AntiBruteRDP is a freeware but you are welcome to donate if you find this tool is useful for you.
 
